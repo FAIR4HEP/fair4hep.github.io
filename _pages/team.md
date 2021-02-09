@@ -1,7 +1,7 @@
 ---
-title: "Neubauer Group - Team"
+title: "FAIR4HEP - Team"
 layout: gridlay
-excerpt: "Neubauer Group: Team members"
+excerpt: "FAIR4HEP: Team members"
 sitemap: false
 permalink: /team/
 ---
