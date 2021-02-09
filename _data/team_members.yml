@@ -1,0 +1,20 @@
+- name: <a href="http://eliuhe.wixsite.com/eliu">Eliu Huerta</a>
+  photo: huerta.png
+  info: Principal Investigator
+  email: elihu@illinois.edu
+  number_addinfo: 1
+  addinfo1: National Center for Supercomputing Applications
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
+- name: <a href="https://msneubauer.github.io">Mark Neubauer</a>
+  photo: neubauer.png
+  info: Co-Principal Investigator
+  email: msn@illinois.edu
+  number_addinfo: 1
+  addinfo1: Professor of Physics, University of Illinois
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
