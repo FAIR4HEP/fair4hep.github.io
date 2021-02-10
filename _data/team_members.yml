@@ -14,7 +14,7 @@
   email: msn@illinois.edu
   number_addinfo: 2
   addinfo1: Professor of Physics, University of Illinois
-  addinfo2: Affilate Professor, NCSA & ECE, University of Illinois
+  addinfo2: Affiliate Professor, NCSA & ECE, University of Illinois
   addinfo3:
   addinfo4:
   addinfo5:
@@ -25,6 +25,26 @@
   number_addinfo: 2
   addinfo1: Chief Scientist, NCSA, University of Illinois
   addinfo2: Associate Research Professor, CS & ECE & iSchool, University of Illinois
+  addinfo3:
+  addinfo4:
+  addinfo5:
+- name: <a href="http://zhizhenz.ece.illinois.edu">Zhizhen Zhao</a>
+  photo: zhao.jpg
+  info: Co-Principal Investigator
+  email: zhizhenz@illinois.edu
+  number_addinfo: 2
+  addinfo1: Assistant Professor, ECE, University of Illinois
+  addinfo2: Affiliate Assistant Professor, Mathematics & Statistics, University of Illinois
+  addinfo3:
+  addinfo4:
+  addinfo5:
+- name: <a href="http://www.ncsa.illinois.edu/People/kindr">Volodymyr Kindratenko</a>
+  photo: kindratenko.jpg
+  info: Co-Principal Investigator
+  email: kindrtnk@illinois.edu
+  number_addinfo: 2
+  addinfo1: Adjunct Associate Professor, ECE, University of Illinois
+  addinfo2: Research Associate Professor, NCSA, University of Illinois
   addinfo3:
   addinfo4:
   addinfo5:
