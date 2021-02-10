@@ -7,3 +7,13 @@
 #    display:  arXiv:1807.00539 (submitted to PLB)
 #  highlight: 1
 #  news1:
+
+- title: FAIR principles for Machine Learning models
+  image:
+  description: A poster discussing the beginning of a process for extending of the FAIR principles to machine learning (ML) models, which have characteristics of both data and software.
+  authors: Katz, Daniel S., Pollard, Tom, Psomopoulos, Fotis, Huerta, Eliu, Erdmann, Chris, & Blaiszik, Ben
+  link:
+    url: https://doi.org/10.5281/zenodo.4271995
+    display: doi: 10.5281/zenodo.4271995
+  highlight: 1
+  news1: 
