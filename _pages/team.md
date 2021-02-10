@@ -21,31 +21,34 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="33%" style="float: left" />
+
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>{% if member.number_addinfo == 1 %}{{ member.addinfo1 }}</i>
+  <i>{{ member.info }}</i>
+  {% if member.number_addinfo == 1 %}
+  {{ member.addinfo1 }}
   {% endif %}
   {% if member.number_addinfo == 2 %}
-  <li> {{ member.addinfo1 }} </li>
-  <li> {{ member.addinfo2 }} </li>
+  {{ member.addinfo1 }} <br>
+  {{ member.addinfo2 }}
   {% endif %}
   {% if member.number_addinfo == 3 %}
-  <li> {{ member.addinfo1 }} </li>
-  <li> {{ member.addinfo2 }} </li>
-  <li> {{ member.addinfo3 }} </li>
+  {{ member.addinfo1 }} <br>
+  {{ member.addinfo2 }} <br>
+  {{ member.addinfo3 }}
   {% endif %}
   {% if member.number_addinfo == 4 %}
-  <li> {{ member.addinfo1 }} </li>
-  <li> {{ member.addinfo2 }} </li>
-  <li> {{ member.addinfo3 }} </li>
-  <li> {{ member.addinfo4 }} </li>
+  {{ member.addinfo1 }} <br>
+  {{ member.addinfo2 }} <br>
+  {{ member.addinfo3 }} <br>
+  {{ member.addinfo4 }}
   {% endif %}
   {% if member.number_addinfo == 5 %}
-  <li> {{ member.addinfo1 }} </li>
-  <li> {{ member.addinfo2 }} </li>
-  <li> {{ member.addinfo3 }} </li>
-  <li> {{ member.addinfo4 }} </li>
-  <li> {{ member.addinfo5 }} </li>
+  {{ member.addinfo1 }} <br>
+  {{ member.addinfo2 }} <br>
+  {{ member.addinfo3 }} <br>
+  {{ member.addinfo4 }} <br>
+  {{ member.addinfo5 }}
   {% endif %}
   email: <{{ member.email }}>
 </div>

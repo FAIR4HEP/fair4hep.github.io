@@ -3,18 +3,18 @@
   info: Principal Investigator
   email: elihu@illinois.edu
   number_addinfo: 1
-  addinfo1: National Center for Supercomputing Applications
+  addinfo1: Senior Research Scientist, NCSA, University of Illinois
   addinfo2:
   addinfo3:
   addinfo4:
   addinfo5:
 - name: <a href="https://msneubauer.github.io">Mark Neubauer</a>
-  photo: neubauer.png
+  photo: neubauer.jpg
   info: Co-Principal Investigator
   email: msn@illinois.edu
-  number_addinfo: 1
+  number_addinfo: 2
   addinfo1: Professor of Physics, University of Illinois
-  addinfo2:
+  addinfo2: Affilate Professor, NCSA & ECE, University of Illinois
   addinfo3:
   addinfo4:
   addinfo5:
