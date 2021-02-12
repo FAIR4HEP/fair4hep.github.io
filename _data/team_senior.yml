@@ -58,3 +58,63 @@
   addinfo2:
   addinfo3:
   addinfo4:
+- name: <a href="https://cse.umn.edu/physics/andrew-furmanski">Andrew Furmanski</a>
+  institution: umn
+  photo: furmanski.jpg
+  info: Co-Principal Investigator
+  email: afurmans@umn.edu
+  number_addinfo: 1
+  addinfo1: Assistant Professor, Physics and Astronomy
+  addinfo2:
+  addinfo3:
+  addinfo4:
+- name: <a href="https://cse.umn.edu/physics/vuk-mandic">Vuk Mandic</a>
+  institution: umn
+  photo: mandic.jpg
+  info: Co-Principal Investigator
+  email: vuk@umn.edu
+  number_addinfo: 1
+  addinfo1: Professor, Physics and Astronomy
+  addinfo2:
+  addinfo3:
+  addinfo4:
+- name: <a href="https://cse.umn.edu/physics/roger-rusack">Roger Rusack</a>
+  institution: umn
+  photo: rusack.jpg
+  info: Co-Principal Investigator
+  email: rusack@umn.edu
+  number_addinfo: 1
+  addinfo1: Professor, Physics and Astronomy
+  addinfo2:
+  addinfo3:
+  addinfo4:
+- name: <a href="https://cse.umn.edu/cs/ju-sun">Ju Sun</a>
+  institution: umn
+  photo: sun.png
+  info: Co-Principal Investigator
+  email: jusun@umn.edu
+  number_addinfo: 1
+  addinfo1: Assistant Professor, Computer Science & Engineering
+  addinfo2:
+  addinfo3:
+  addinfo4:
+- name: <a href="https://physics.mit.edu/faculty/philip-harris">Phil Harris</a>
+  institution: mit
+  photo: harris.jpg
+  info: Co-Principal Investigator
+  email: pcharris@mit.edu
+  number_addinfo: 1
+  addinfo1: Assistant Professor, Physics
+  addinfo2:
+  addinfo3:
+  addinfo4:
+- name: <a href="https://jduarte.physics.ucsd.edu">Javier Duarte</a>
+  institution: ucsd
+  photo: duarte.jpg
+  info: Co-Principal Investigator
+  email: jduarte@ucsd.edu
+  number_addinfo: 1
+  addinfo1: Assistant Professor, Physics
+  addinfo2:
+  addinfo3:
+  addinfo4:
