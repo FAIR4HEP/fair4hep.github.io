@@ -1,0 +1,50 @@
+- name: <a href="http://eliuhe.wixsite.com/eliu">Eliu Huerta</a>
+  institution: uiuc
+  photo: huerta.png
+  info: Principal Investigator
+  email: elihu@illinois.edu
+  number_addinfo: 1
+  addinfo1: Senior Research Scientist, NCSA
+  addinfo2:
+  addinfo3:
+  addinfo4:
+- name: <a href="https://danielskatz.org">Daniel S. Katz</a>
+  institution: uiuc
+  photo: katz.png
+  info: Co-Principal Investigator
+  email: dskatz@illinois.edu
+  number_addinfo: 4
+  addinfo1: Chief Scientist, NCSA
+  addinfo2: Associate Research Professor, CS
+  addinfo3: Associate Research Professor, ECE
+  addinfo4: Associate Research Professor, iSchool
+- name: <a href="http://www.ncsa.illinois.edu/People/kindr">Volodymyr Kindratenko</a>
+  institution: uiuc
+  photo: kindratenko.jpg
+  info: Co-Principal Investigator
+  email: kindrtnk@illinois.edu
+  number_addinfo: 3
+  addinfo1: Senior Research Scientist, NCSA
+  addinfo2: Research Associate Professor, CS
+  addinfo3: Adjunct Associate Professor, ECE
+  addinfo4:
+- name: <a href="https://msneubauer.github.io">Mark Neubauer</a>
+  institution: uiuc
+  photo: neubauer.jpg
+  info: Co-Principal Investigator
+  email: msn@illinois.edu
+  number_addinfo: 3
+  addinfo1: Professor, Physics
+  addinfo2: Affiliate Professor, ECE
+  addinfo3: Affiliate Professor. NCSA
+  addinfo4:
+- name: <a href="http://zhizhenz.ece.illinois.edu">Zhizhen Zhao</a>
+  institution: uiuc
+  photo: zhao.jpg
+  info: Co-Principal Investigator
+  email: zhizhenz@illinois.edu
+  number_addinfo: 3
+  addinfo1: Assistant Professor, ECE
+  addinfo2: Affiliate Assistant Professor, Mathematics
+  addinfo3: Affiliate Assistant Professor, Statistics
+  addinfo4:

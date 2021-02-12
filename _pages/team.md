@@ -6,23 +6,36 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+**We are often looking for new PhD students, Postdocs, Professionals and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
- **We are often looking for new PhD students, Postdocs, Professionals and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+## **Senior Personnel**
 
-## Senior Personnel
+{% assign institution_printed = 0 %}
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.team_senior %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
+{% if institution_printed == 0 %}
+{% if member.institution == "uiuc" %}
+### *University of Illinois at Urbana-Champaign*
+{% endif %}
+{% if member.institution == "umn" %}
+### *University of Minnesota*
+{% endif %}
+{% if member.institution == "mit" %}
+### *Massachusetts Institute of Technology*
+{% endif %}
+{% if member.institution == "ucsd" %}
+### *University of California at San Diego*
+{% endif %}
+{% assign institution_printed = 1 %}
 {% endif %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
+  <div class="row">
+{% endif %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="36%" style="float: left" />
-
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.number_addinfo == 1 %}
@@ -43,73 +56,14 @@ permalink: /team/
   {{ member.addinfo3 }} <br>
   {{ member.addinfo4 }}
   {% endif %}
-  {% if member.number_addinfo == 5 %}
-  {{ member.addinfo1 }} <br>
-  {{ member.addinfo2 }} <br>
-  {{ member.addinfo3 }} <br>
-  {{ member.addinfo4 }} <br>
-  {{ member.addinfo5 }}
-  {% endif %}
   email: <{{ member.email }}>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
-
 {% if even_odd == 1 %}
-</div>
+  </div>
 {% endif %}
-
 {% endfor %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Undergraduate Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-  {% endfor %}
-
-  </ul>
-</div>
-
-
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
