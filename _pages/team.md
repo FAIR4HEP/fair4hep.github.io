@@ -33,6 +33,7 @@ permalink: /team/
 
 {% if member.institution == "mit" %}
   {% if previous_institution != "mit" %}
+  </div>
 ### *Massachusetts Institute of Technology*
   {% endif %}
   {% assign previous_institution = "mit" %}
@@ -40,6 +41,7 @@ permalink: /team/
 
 {% if member.institution == "ucsd" %}
   {% if previous_institution != "ucsd" %}
+  </div>
 ### *University of California at San Diego*
   {% endif %}
   {% assign previous_institution = "ucsd" %}
