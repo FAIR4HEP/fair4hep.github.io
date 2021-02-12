@@ -10,24 +10,38 @@ permalink: /team/
 
 ## **Senior Personnel**
 
-{% assign institution_printed = 0 %}
+{% assign previous_institution = "" %}
 {% assign number_printed = 0 %}
 {% for member in site.data.team_senior %}
 
-{% if institution_printed == 0 %}
 {% if member.institution == "uiuc" %}
-### *University of Illinois at Urbana-Champaign*
+  {% if previous_institution != "uiuc" %}
+  <br>
+### *University of Illinois at Urbana-Champaign*  
+  {% endif %}
+  {% assign previous_institution = "uiuc" %}
 {% endif %}
+
 {% if member.institution == "umn" %}
+  {% if previous_institution != "umn" %}
+  {% assign number_printed = 0 %}
 ### *University of Minnesota*
+  {% endif %}
+  {% assign previous_institution = "umn" %}
 {% endif %}
+
 {% if member.institution == "mit" %}
+  {% if previous_institution != "mit" %}
 ### *Massachusetts Institute of Technology*
+  {% endif %}
+  {% assign previous_institution = "mit" %}
 {% endif %}
+
 {% if member.institution == "ucsd" %}
+  {% if previous_institution != "ucsd" %}
 ### *University of California at San Diego*
-{% endif %}
-{% assign institution_printed = 1 %}
+  {% endif %}
+  {% assign previous_institution = "ucsd" %}
 {% endif %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
