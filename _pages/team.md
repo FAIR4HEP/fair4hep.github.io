@@ -16,7 +16,6 @@ permalink: /team/
 
 {% if member.institution == "uiuc" %}
   {% if previous_institution != "uiuc" %}
-  <br>
 ### *University of Illinois at Urbana-Champaign*  
   {% endif %}
   {% assign previous_institution = "uiuc" %}
@@ -27,6 +26,7 @@ permalink: /team/
   {% assign number_printed = 0 %}
   </div>
 ### *University of Minnesota*
+  <div>
   {% endif %}
   {% assign previous_institution = "umn" %}
 {% endif %}
@@ -34,6 +34,7 @@ permalink: /team/
 {% if member.institution == "mit" %}
   {% if previous_institution != "mit" %}
   </div>
+  <div class="row">
 ### *Massachusetts Institute of Technology*
   {% endif %}
   {% assign previous_institution = "mit" %}
@@ -41,8 +42,8 @@ permalink: /team/
 
 {% if member.institution == "ucsd" %}
   {% if previous_institution != "ucsd" %}
-  </div>
 ### *University of California at San Diego*
+{% assign even_odd = 1 %}
   {% endif %}
   {% assign previous_institution = "ucsd" %}
 {% endif %}
