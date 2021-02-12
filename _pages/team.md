@@ -25,6 +25,7 @@ permalink: /team/
 {% if member.institution == "umn" %}
   {% if previous_institution != "umn" %}
   {% assign number_printed = 0 %}
+  </div>
 ### *University of Minnesota*
   {% endif %}
   {% assign previous_institution = "umn" %}
