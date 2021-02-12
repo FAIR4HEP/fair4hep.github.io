@@ -9,7 +9,7 @@
 #  news1:
 
 - title: FAIR principles for Machine Learning models
-  image:
+  image: FAIR_ML-poster-RDA-VP16.png
   description: A poster discussing the beginning of a process for extending of the FAIR principles to machine learning (ML) models, which have characteristics of both data and software.
   authors: Katz, Daniel S., Pollard, Tom, Psomopoulos, Fotis, Huerta, Eliu, Erdmann, Chris, & Blaiszik, Ben
   link:
