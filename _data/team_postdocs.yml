@@ -1,9 +1,9 @@
-- name: <a href=""></a>
-  photo: unknown.png
-  info: Postdoctoral Associate
-  email: unknown@illinois.edu
+- name: <a href="https://cse.umn.edu/physics/andrew-evans">Andrew Evans</a>
+  photo: evans.jpg
+  info: University of Minnesota
+  email: evans908@umn.edu
   number_addinfo: 1
-  addinfo1: Ph.D. Physics from Monsters' University with Sully
+  addinfo1: Ph.D. Physics, University of Minnesota (2020)
   addinfo2:
   addinfo3:
   addinfo4:
