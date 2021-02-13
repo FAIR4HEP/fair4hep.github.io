@@ -7,3 +7,21 @@
   addinfo2: B.S. Computer Science from University of Illinois
   addinfo3:
   addinfo4:
+- name: <a href="https://taihui.github.io">Taihui Li</a>
+  photo: li.jpg
+  info: Ph.D. Student, University of Minnesota
+  email: lixx5027@umn.edu
+  number_addinfo: 2
+  addinfo1: Department of Computer Science and Engineering
+  addinfo2: M.S. (2016), B.S. (2013) Computer Science from Jilin University (2016)
+  addinfo3:
+  addinfo4:
+- name: <a href="https://www.linkedin.com/in/raghav-kansal-7968968b">Raghav Kansal</a>
+  photo: kansal.jpg
+  info: Ph.D. Student, University of California at San Diego
+  email: rkansal@ucsd.edu
+  number_addinfo: 2
+  addinfo1: Department of Physics
+  addinfo2: B.S. Physics and Computer Engineering from UCSD (2019)
+  addinfo3:
+  addinfo4:
