@@ -13,11 +13,12 @@
   photo: katz.png
   info: Co-Principal Investigator
   email: dskatz@illinois.edu
-  number_addinfo: 4
+  number_addinfo: 5
   addinfo1: Chief Scientist, NCSA
   addinfo2: Associate Research Professor, CS
   addinfo3: Associate Research Professor, ECE
   addinfo4: Associate Research Professor, iSchool
+  addinfo5: Guest Faculty, Argonne National Laboratory
 - name: <a href="http://www.ncsa.illinois.edu/People/kindr">Volodymyr Kindratenko</a>
   institution: uiuc
   photo: kindratenko.jpg
