@@ -7,3 +7,8 @@ http://fair4hep.github.io/
 which is served by [GitHub Pages](https://pages.github.com/) and powered by [Jekyll](https://github.com/jekyll).
 
 The contents of this website &copy; under the 2018 MIT License.
+
+You can run a version of the website locally for development with 
+
+bundle install
+bundle exec jekyll serve
