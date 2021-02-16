@@ -1,5 +1,4 @@
 - date: 11 August 2020
-  headline: "FAIR4HEP Project launches!"
-
+  headline: "FAIR4HEP Project launches! <img src='/fair4hep.github.io/images/logopic/FAIR4HEP_logo.png' class='img-responsive' style='max-width: 260px' />"
 - date: 9 Nov 2020
-  headline: "<a href='https://doi.org/10.5281/zenodo.4271995'>FAIR for ML Models poster</a> at <a href='https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual'>RDA VP16</a> <img src='/fair4hep.github.io/images/newspic/RDAVP16.png' class='img-responsive' style='max-width: 260px' />"
+  headline: "<a href='https://doi.org/10.5281/zenodo.4271995'>FAIR for ML Models poster</a> at <a href='https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual'>RDA VP16</a> <img src='/fair4hep.github.io/images/newspic/FAIR_ML-poster-RDA-VP16.png' class='img-responsive' style='max-width: 260px' />"
