@@ -3,9 +3,9 @@
   photo: huerta.png
   info: Principal Investigator
   email: elihu@illinois.edu
-  number_addinfo: 1
+  number_addinfo: 2
   addinfo1: Senior Research Scientist, NCSA
-  addinfo2:
+  addinfo2: Director, <a href="https://ai.ncsa.illinois.edu">Center for Artificial Intelligence Innovation</a>
   addinfo3:
   addinfo4:
 - name: <a href="https://danielskatz.org">Daniel S. Katz</a>
