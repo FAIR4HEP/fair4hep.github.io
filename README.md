@@ -10,5 +10,5 @@ The contents of this website &copy; under the 2018 MIT License.
 
 You can run a version of the website locally for development with 
 
-bundle install
-bundle exec jekyll serve
+`bundle install`
+`bundle exec jekyll serve`
