@@ -1,5 +1,5 @@
 ---
-title: "SCAILFIN Group - Vacancies"
+title: "FAIR4HEP Project - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

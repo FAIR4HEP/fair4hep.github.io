@@ -1,7 +1,7 @@
 ---
-title: "SCAILFIN Project - Pictures"
+title: "FAIR4HEP Project - Pictures"
 layout: piclay
-excerpt: "SCAILFIN Project -- Pictures"
+excerpt: "FAIR4HEP Project -- Pictures"
 permalink: /pictures/
 ---
 

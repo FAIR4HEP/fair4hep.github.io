@@ -1,7 +1,7 @@
 ---
-title: "SCAILFIN Project - Publications"
+title: "FAIR4HEP Project - Publications"
 layout: gridlay
-excerpt: "SCAILFIN Project -- Publications."
+excerpt: "FAIR4HEP Project -- Publications."
 sitemap: false
 permalink: /publications/
 ---
