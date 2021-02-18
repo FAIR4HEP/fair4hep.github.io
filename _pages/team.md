@@ -74,6 +74,13 @@ permalink: /team/
   {{ member.addinfo3 }} <br>
   {{ member.addinfo4 }}
   {% endif %}
+  {% if member.number_addinfo == 5 %}
+  {{ member.addinfo1 }} <br>
+  {{ member.addinfo2 }} <br>
+  {{ member.addinfo3 }} <br>
+  {{ member.addinfo4 }} <br>
+  {{ member.addinfo5 }}
+  {% endif %}
   email: <{{ member.email }}>
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
