@@ -34,4 +34,4 @@ permalink: /
 
 The primary focus of this project is to advance our understanding of the relationship between data and artificial intelligence (AI) models by exploring relationships among them through the development of FAIR (Findable, Accessible, Interoperable, and Reusable) frameworks. Using high-energy physics (HEP) as the science driver, this project will develop a FAIR framework to advance our understanding of AI, provide new insights to apply AI techniques, and provide an environment where novel approaches to AI can be explored.
 
-See <b>[here](about)</b> for more details about the FAIR4HEP Project and meet the <b>[team](team)!
+See <b>[here](about)</b> for more details about the FAIR4HEP Project and meet the <b>[team](team)</b>!

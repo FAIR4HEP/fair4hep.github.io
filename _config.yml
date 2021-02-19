@@ -11,7 +11,7 @@ email: msn@illinois.edu
 # The description below will appear in your document head meta (for Google
 #search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
-  Findable, Accessible, Interoperable, and Reusable Frameworks for High-Energy Physics (FAIR4HEP) Project
+  Findable Accessible Interoperable and Reusable Frameworks for High Energy Physics (FAIR4HEP) Project
 baseurl: /
 url: ""
 
