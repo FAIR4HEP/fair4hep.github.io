@@ -12,7 +12,7 @@ email: msn@illinois.edu
 #search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
   Findable, Accessible, Interoperable, and Reusable Frameworks for High Energy Physics (FAIR4HEP) Project
-baseurl: /
+baseurl: 
 url: ""
 
 include:
