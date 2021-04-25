@@ -4,9 +4,9 @@
   info: Principal Investigator
   email: elihu@anl.gov
   number_addinfo: 2
-  addinfo1: Computational Scientist, Data Science & Learning Division, Argonne National Lab
-  addinfo2: Head, Translational AI and Advanced Computing and Computational Science
-  addinfo3:
+  addinfo1: Head of Translational AI and Advanced Computing & Computational Scientist
+  addinfo2: Data Science and Learning Division
+  addinfo3: Argonne National Laboratory
   addinfo4:
 - name: <a href="https://danielskatz.org">Daniel S. Katz</a>
   institution: uiuc
