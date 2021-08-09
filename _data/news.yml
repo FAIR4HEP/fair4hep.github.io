@@ -1,10 +1,10 @@
-- date: 11 August 2020
-  headline: "FAIR4HEP Project launches! <img src='images/logopic/FAIR4HEP_logo.png' class='img-responsive' style='max-width: 260px' />"
-- date: 9 Nov 2020
-  headline: "<a href='https://doi.org/10.5281/zenodo.4271995'>FAIR for ML Models poster</a> at <a href='https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual'>RDA VP16</a> <img src='images/newspic/RDAVP16.png' class='img-responsive' style='max-width: 260px' />"
-- date: 23 Feb 2021
-  headline: "<a href='https://www.rd-alliance.org/defining-fair-machine-learning-ml'>FAIR for ML Models BoF</a> accepted at <a href='https://www.rd-alliance.org/plenaries/rda-17th-plenary-meeting'>RDA VP17</a> <img src='images/newspic/RDAVP17.png' class='img-responsive' style='max-width: 260px' />"
-- date: 21 Apr 2021
-  headline: "<a href='https://indico.cern.ch/event/1029309/contributions/4321847/attachments/2230826/3779932/IRISHEP_FAIR4HEP_21Apr2021.pdf'>IRIS-HEP Topical Presentation</a> <img src='images/newspic/IRISHEP_Top_Pres_21Apr2021_Cover-1.png' class='img-responsive' style='max-width: 260px' />"
 - date: 06 Aug 2021
   headline: "<a href='https://arxiv.org/abs/2108.02214'>First FAIR4HEP paper submitted to the Arxiv </a> <img src='images/newspic/FirstPaperSnippet.png' class='img-responsive' style='max-width: 260px' />"
+- date: 21 Apr 2021
+  headline: "<a href='https://indico.cern.ch/event/1029309/contributions/4321847/attachments/2230826/3779932/IRISHEP_FAIR4HEP_21Apr2021.pdf'>IRIS-HEP Topical Presentation</a> <img src='images/newspic/IRISHEP_Top_Pres_21Apr2021_Cover-1.png' class='img-responsive' style='max-width: 260px' />"
+- date: 23 Feb 2021
+  headline: "<a href='https://www.rd-alliance.org/defining-fair-machine-learning-ml'>FAIR for ML Models BoF</a> accepted at <a href='https://www.rd-alliance.org/plenaries/rda-17th-plenary-meeting'>RDA VP17</a> <img src='images/newspic/RDAVP17.png' class='img-responsive' style='max-width: 260px' />"
+- date: 9 Nov 2020
+  headline: "<a href='https://doi.org/10.5281/zenodo.4271995'>FAIR for ML Models poster</a> at <a href='https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual'>RDA VP16</a> <img src='images/newspic/RDAVP16.png' class='img-responsive' style='max-width: 260px' />"
+- date: 11 August 2020
+  headline: "FAIR4HEP Project launches! <img src='images/logopic/FAIR4HEP_logo.png' class='img-responsive' style='max-width: 260px' />"
