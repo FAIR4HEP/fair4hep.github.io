@@ -43,3 +43,21 @@
   addinfo2: B.S. Physics Rice University (2018)
   addinfo3:
   addinfo4:
+  - name: <a href="https://gardn701.github.io/">Michael Gardner </a>
+  photo: Gardner.jpg
+  info: Ph.D. Student, University of Minnesota - Twin Cities
+  email: gardn701@umn.edu
+  number_addinfo: 2
+  addinfo1: Department of Physics
+  addinfo2: B.S. University of Texas at San Antonio (2020)
+  addinfo3:
+  addinfo4:
+  - name: Ruike Zhu
+  photo: ruike.jpg
+  info: Master Student, University of Illinois Urbana Champaign
+  email: ruikez2@illinois.edu
+  number_addinfo: 2
+  addinfo1: Department of Computer Science
+  addinfo2: B.S. (2021) Computer Engineering from Zhejiang University - University of Illinois Urabana-Champaign Joint Institute
+  addinfo3:
+  addinfo4:
