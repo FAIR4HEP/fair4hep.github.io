@@ -9,7 +9,7 @@
 #  news1:
 
 - title: Working Towards Understanding the Role of FAIR for Machine Learning
-  image: DaMaLOS2021.pdf
+  image: DaMaLOS2021.png
   description: The FAIR Guiding Principles aim to improve findability, accessibility, interoperability and reusability for both humans and machines, initially aimed at scientific data, but also intended to apply to all sorts of research digital objects, with recent developments about their modification and application to software and computational workflows. In this position paper we argue that the FAIR principles also can apply to machine learning tools and models, though a direct application is not always possible as machine learning combines aspects of data and software. Here we discuss some of the elements of machine learning that lead to the need for some adaptation of the original FAIR principles, along with stakeholders that would benefit from this adaptation. We introduce the initial steps towards this adaptation, i.e., creating a community around it, some possible benefits beyond FAIR, and some of the open questions that such a community could tackle.
   authors: Katz, Daniel S., Psomopoulos, Fotis & Castro, L. J.
   link:
@@ -19,7 +19,7 @@
   news1:
 
 - title: A FAIR and AI-ready Higgs Boson Decay Dataset
-  image: arXiv2021.pdf
+  image: arXiv2021.png
   description: To enable the reusability of massive scientific datasets by humans and machines, researchers aim to create scientific datasets that adhere to the principles of findability, accessibility, interoperability, and reusability (FAIR) for data and artificial intelligence (AI) models. This article provides a domain-agnostic, step-by-step assessment guide to evaluate whether or not a given dataset meets each FAIR principle. We then demonstrate how to use this guide to evaluate the FAIRness of an open simulated dataset produced by the CMS Collaboration at the CERN Large Hadron Collider. This dataset consists of Higgs boson decays and quark and gluon background, and is available through the CERN Open Data Portal. We also use other available tools to assess the FAIRness of this dataset, and incorporate feedback from members of the FAIR community to validate our results. This article is accompanied by a Jupyter notebook to facilitate an understanding and exploration of the dataset, including visualization of its elements. This study marks the first in a planned series of articles that will guide scientists in the creation and quantification of FAIRness in high energy particle physics datasets and AI models.
   authors: Chen, Yifan, Huerta, E. A.,  Duarte, Javier, Harris, Philip, Katz, Daniel S., Neubauer, Mark S., Diaz, Daniel, Mokhtar, Farouk, Kansal, Raghav, Park, Sang Eon, Kindratenko, Volodymyr V., Zhao, Zhizhen, Rusack, Roger
   link:
